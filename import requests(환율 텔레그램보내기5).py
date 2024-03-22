@@ -67,7 +67,7 @@ if __name__ == "__main__":
     telegram_chat_id = '-API_id'  # 변경된 부분: 채팅 ID 형식을 변경
     
     # Open Exchange Rates API 키를 설정합니다.
-    open_exchange_rates_api_key = '7FA2a82eG6OoHyOGIkXukhJW5zXmdz6h'
+    open_exchange_rates_api_key = 'API등록'
     
     # 지정값은 프로그램을 중단하고 알림을 보낼 환율을 의미합니다.
     target_exchange_rate = 1200  # 예시: 1 USD = 1200 KRW
