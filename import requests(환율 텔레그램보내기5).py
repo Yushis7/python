@@ -63,8 +63,8 @@ def main(api_key, telegram_token, telegram_chat_id, target_rate):
 
 if __name__ == "__main__":
     # 텔레그램 봇의 토큰과 채팅 ID를 설정합니다.
-    telegram_bot_token = '6780129926:AAFycxKTrjxM9FZsJGh0C6se35xWUhpByu8'
-    telegram_chat_id = '-1002048496918'  # 변경된 부분: 채팅 ID 형식을 변경
+    telegram_bot_token = 'API'
+    telegram_chat_id = '-API_id'  # 변경된 부분: 채팅 ID 형식을 변경
     
     # Open Exchange Rates API 키를 설정합니다.
     open_exchange_rates_api_key = '7FA2a82eG6OoHyOGIkXukhJW5zXmdz6h'
